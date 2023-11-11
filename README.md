@@ -1,7 +1,7 @@
 # Pygame Platformer - Ninja Game
 
 ## Description
-This simple Pygame Platformer was created as my first game project. I had just started to take interest in game development and wanted to enchance my Object-Oriented Progamming basics. After finishing the tutorial, I had added main menu and pause function (esc + esc)Pause and Unpause , (esc + z)Quit to main menu and shooting mechanices for the player chracter(c) Shooting. 
+This simple Pygame Platformer was created as my first game project. I had just started to take interest in game development and wanted to enhance my Object-Oriented Progamming basics. After finishing the tutorial, I had added main menu and pause function (esc + esc)Pause and Unpause , (esc + z)Quit to main menu and shooting mechanices for the player chracter(c) Shooting. 
 
 ## Game 
 ![Alt text](Image/MainMenu.png)
