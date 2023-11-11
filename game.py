@@ -165,6 +165,7 @@ class Game:
                         if event.key == pygame.K_z:
                             self.pause = False
                             self.mainmenu()
+
             while self.running:
                 self.display.fill((0, 0, 0, 0))
                 self.display_2.blit(self.assets["background"], (0, 0))
@@ -325,6 +326,8 @@ class Game:
                                 self.sfx["jump"].play()
                         if event.key == pygame.K_x:
                             self.player.dash()
+                        if event.key == pygame.K_c:
+                            self.player.shoot()
                         if event.key == pygame.K_ESCAPE:
                             self.running = False
                             self.pause = not self.pause
